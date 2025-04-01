@@ -1,6 +1,7 @@
 # C
 C_ORANGE = (255, 128, 0)
 C_WHITE = (255, 255, 255)
+C_YELLOW =(245, 239, 127)
 # M
 MENU_OPTION = ('NEW GAME 1P',
                'NEW GAME 2P - COOPERATIVE',
